@@ -1,0 +1,12 @@
+{
+  "name": "webhook-relay-c1d0ab",
+  "version": "1.0.0",
+  "description": "A webhook-relay utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["webhook-relay", "utility"],
+  "license": "MIT"
+}
